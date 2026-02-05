@@ -1,0 +1,332 @@
+sets:England:gui.xaero_default:Wales:Scotland:Ireland:Northern Ireland:Isle of Man:Jersey:Guernsey
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Haslemere:H:-772:71:-52324:12:false:0:England:false:0:0:false
+waypoint:Woking:W:-509:64:-52589:12:false:0:England:false:0:0:false
+waypoint:Grays:G:323:64:-52733:12:false:0:England:false:0:0:false
+waypoint:Gravesend:G:370:65:-52652:12:false:0:England:false:0:0:false
+waypoint:Poole:P:-2008:63:-51937:12:false:0:England:false:0:0:false
+waypoint:Fleetwood:F:-3081:63:-55219:12:false:0:England:false:0:0:false
+waypoint:Bexhill-on-Sea:B:479:64:-52064:12:false:0:England:false:0:0:false
+waypoint:Fleet:F:-852:66:-52528:12:false:0:England:false:0:0:false
+waypoint:Farnham:F:-809:66:-52443:12:false:0:England:false:0:0:false
+waypoint:Newmarket:N:404:64:-53519:12:false:0:England:false:0:0:false
+waypoint:Oakham:O:-734:67:-53933:12:false:0:England:false:0:0:false
+waypoint:Ripon:R:-1563:65:-55422:12:false:0:England:false:0:0:false
+waypoint:Market Harborough:MH:-936:66:-53741:12:false:0:England:false:0:0:false
+waypoint:Runcorn:R:-2801:65:-54618:12:false:0:England:false:0:0:false
+waypoint:Seaford:S:57:63:-52013:12:false:0:England:false:0:0:false
+waypoint:Beverley:B:-454:64:-55114:12:false:0:England:false:0:0:false
+waypoint:Solihull:S:-1818:68:-53676:12:false:0:England:false:0:0:false
+waypoint:Walsall:W:-2025:68:-53849:12:false:0:England:false:0:0:false
+waypoint:Sleaford:S:-436:64:-54283:12:false:0:England:false:0:0:false
+waypoint:Stamford:S:-522:66:-53920:12:false:0:England:false:0:0:false
+waypoint:Melton Mowbray:MM:-906:67:-54036:12:false:0:England:false:0:0:false
+waypoint:Ripley:R:-1432:69:-54326:12:false:0:England:false:0:0:false
+waypoint:Cirencester:C:-2022:68:-52958:12:false:0:England:false:0:0:false
+waypoint:Witham:W:666:64:-53052:12:false:0:England:false:0:0:false
+waypoint:Brentwood:B:300:67:-52868:12:false:0:England:false:0:0:false
+waypoint:Basildon:B:493:64:-52828:12:false:0:England:false:0:0:false
+waypoint:Reigate:R:-203:72:-52485:12:false:0:England:false:0:0:false
+waypoint:Dartford:D:241:65:-52675:12:false:0:England:false:0:0:false
+waypoint:Weymouth:W:-2515:63:-51827:12:false:0:England:false:0:0:false
+waypoint:Dorchester:D:-2507:66:-51920:12:false:0:England:false:0:0:false
+waypoint:St Neots:SN:-275:64:-53466:12:false:0:England:false:0:0:false
+waypoint:Leighton Buzzard:LB:-668:67:-53150:12:false:0:England:false:0:0:false
+waypoint:Whitehaven:W:-3663:65:-55851:12:false:0:England:false:0:0:false
+waypoint:Deal:D:1437:63:-52451:12:false:0:England:false:0:0:false
+waypoint:Stowmarket:S:1013:65:-53449:12:false:0:England:false:0:0:false
+waypoint:Fareham:F:-1212:64:-52086:12:false:0:England:false:0:0:false
+waypoint:Dereham:D:970:65:-53939:12:false:0:England:false:0:0:false
+waypoint:Ely:E:261:63:-53666:12:false:0:England:false:0:0:false
+waypoint:Bideford:B:-4307:63:-52248:12:false:0:England:false:0:0:false
+waypoint:Truro:T:-5166:65:-51475:12:false:0:England:false:0:0:false
+waypoint:St Austell:SA:-4885:65:-51550:12:false:0:England:false:0:0:false
+waypoint:Dudley:D:-2156:70:-53766:12:false:0:England:false:0:0:false
+waypoint:Bromsgrove:B:-2108:67:-53597:12:false:0:England:false:0:0:false
+waypoint:Nuneaton:N:-1494:66:-53791:12:false:0:England:false:0:0:false
+waypoint:West Bromwich:WB:-2042:70:-53782:12:false:0:England:false:0:0:false
+waypoint:Oldham:O:-2138:72:-54832:12:false:0:England:false:0:0:false
+waypoint:Stockport:S:-2223:65:-54689:12:false:0:England:false:0:0:false
+waypoint:Waterlooville:W:-1041:65:-52098:12:false:0:England:false:0:0:false
+waypoint:Rugeley:R:-1982:66:-54027:12:false:0:England:false:0:0:false
+waypoint:Trowbridge:T:-2255:65:-52558:12:false:0:England:false:0:0:false
+waypoint:Didcot:D:-1308:66:-52840:12:false:0:England:false:0:0:false
+waypoint:East Grinstead:EG:-21:68:-52354:12:false:0:England:false:0:0:false
+waypoint:Crowborough:C:166:71:-52284:12:false:0:England:false:0:0:false
+waypoint:Alton:A:-985:67:-52374:12:false:0:England:false:0:0:false
+waypoint:Sudbury:S:753:65:-53288:12:false:0:England:false:0:0:false
+waypoint:Halifax:H:-1919:71:-55021:12:false:0:England:false:0:0:false
+waypoint:Bury:B:-2347:67:-54886:12:false:0:England:false:0:0:false
+waypoint:Ormskirk:O:-2948:65:-54854:12:false:0:England:false:0:0:false
+waypoint:Skelmersdale:S:-2853:66:-54828:12:false:0:England:false:0:0:false
+waypoint:Chorley:C:-2692:67:-54959:12:false:0:England:false:0:0:false
+waypoint:Congleton:C:-2276:67:-54438:12:false:0:England:false:0:0:false
+waypoint:Winsford:W:-2588:65:-54467:12:false:0:England:false:0:0:false
+waypoint:Accrington:A:-2435:69:-55060:12:false:0:England:false:0:0:false
+waypoint:Coalville:C:-1391:69:-53984:12:false:0:England:false:0:0:false
+waypoint:Daventry:D:-1200:69:-53518:12:false:0:England:false:0:0:false
+waypoint:Wolverhampton:W:-2185:68:-53866:12:false:0:England:false:0:0:false
+waypoint:Whitstable:W:1041:65:-52576:12:false:0:England:false:0:0:false
+waypoint:Witney:W:-1529:66:-53021:12:false:0:England:false:0:0:false
+waypoint:Cannock:C:-2061:69:-53964:12:false:0:England:false:0:0:false
+waypoint:Lichfield:L:-1872:66:-53947:12:false:0:England:false:0:0:false
+waypoint:Castleford:C:-1365:64:-55000:12:false:0:England:false:0:0:false
+waypoint:Wakefield:W:-1544:65:-54972:12:false:0:England:false:0:0:false
+waypoint:Bolton:B:-2490:67:-54871:12:false:0:England:false:0:0:false
+waypoint:Buxton:B:-1960:76:-54528:12:false:0:England:false:0:0:false
+waypoint:Macclesfield:M:-2189:69:-54534:12:false:0:England:false:0:0:false
+waypoint:Gainsborough:G:-789:64:-54680:12:false:0:England:false:0:0:false
+waypoint:Kettering:K:-766:66:-53652:12:false:0:England:false:0:0:false
+waypoint:Malvern:M:-2384:68:-53362:12:false:0:England:false:0:0:false
+waypoint:Bognor Regis:BR:-683:63:-52021:12:false:0:England:false:0:0:false
+waypoint:Burton upon Trent:B:-1690:65:-54075:12:false:0:England:false:0:0:false
+waypoint:Penrith:P:-2827:69:-55969:12:false:0:England:false:0:0:false
+waypoint:Ashington:A:-1573:64:-56495:12:false:0:England:false:0:0:false
+waypoint:Consett:C:-1863:73:-56178:12:false:0:England:false:0:0:false
+waypoint:Stanley:S:-1739:72:-56189:12:false:0:England:false:0:0:false
+waypoint:Bishop Auckland:BA:-1721:67:-55958:12:false:0:England:false:0:0:false
+waypoint:Hartlepool:H:-1240:63:-56015:12:false:0:England:false:0:0:false
+waypoint:Berwick-upon-Tweed:B:-2063:65:-57125:12:false:0:England:false:0:0:false
+waypoint:Oswestry:O:-3105:67:-54119:12:false:0:England:false:0:0:false
+waypoint:Worksop:W:-1161:65:-54581:12:false:0:England:false:0:0:false
+waypoint:Newark-on-Trent:N:-808:64:-54365:12:false:0:England:false:0:0:false
+waypoint:Bridlington:B:-213:64:-55394:12:false:0:England:false:0:0:false
+waypoint:Ryde:R:-1191:64:-51948:12:false:0:England:false:0:0:false
+waypoint:Newport:N:-1327:64:-51916:12:false:0:England:false:0:0:false
+waypoint:Bicester:B:-1190:66:-53142:12:false:0:England:false:0:0:false
+waypoint:Exmouth:E:-3495:63:-51836:12:false:0:England:false:0:0:false
+waypoint:Thetford:T:771:64:-53675:12:false:0:England:false:0:0:false
+waypoint:Huntingdon:H:-214:64:-53594:12:false:0:England:false:0:0:false
+waypoint:Welwyn Garden City:W:-229:67:-53038:12:false:0:England:false:0:0:false
+waypoint:Bishop's Stortford:BS:140:67:-53122:12:false:0:England:false:0:0:false
+waypoint:Tamworth:T:-1747:65:-53901:12:false:0:England:false:0:0:false
+waypoint:Keighley:K:-1959:68:-55169:12:false:0:England:false:0:0:false
+waypoint:Frome:F:-2397:67:-52444:12:false:0:England:false:0:0:false
+waypoint:Maidstone:M:526:64:-52503:12:false:0:England:false:0:0:false
+waypoint:Sevenoaks:S:201:67:-52517:12:false:0:England:false:0:0:false
+waypoint:Hemel Hempstead:HH:-482:67:-52992:12:false:0:England:false:0:0:false
+waypoint:St Albans:SA:-355:67:-52978:12:false:0:England:false:0:0:false
+waypoint:Maidenhead:M:-730:64:-52743:12:false:0:England:false:0:0:false
+waypoint:Bracknell:B:-779:66:-52650:12:false:0:England:false:0:0:false
+waypoint:Rugby:R:-1301:68:-53628:12:false:0:England:false:0:0:false
+waypoint:Reading:R:-1002:65:-52684:12:false:0:England:false:0:0:false
+waypoint:Harrogate:H:-1570:68:-55285:12:false:0:England:false:0:0:false
+waypoint:Rochdale:R:-2198:69:-54894:12:false:0:England:false:0:0:false
+waypoint:Leeds:L:-1587:64:-55079:12:false:0:England:false:0:0:false
+waypoint:Bradford:B:-1793:70:-55064:12:false:0:England:false:0:0:false
+waypoint:Huddersfield:H:-1826:66:-54942:12:false:0:England:false:0:0:false
+waypoint:Burnley:B:-2309:68:-55083:12:false:0:England:false:0:0:false
+waypoint:Blackburn:B:-2549:69:-55044:12:false:0:England:false:0:0:false
+waypoint:Wigan:W:-2698:65:-54832:12:false:0:England:false:0:0:false
+waypoint:St Helens:SH:-2810:64:-54740:12:false:0:England:false:0:0:false
+waypoint:Warrington:W:-2646:64:-54674:12:false:0:England:false:0:0:false
+waypoint:Manchester:M:-2285:65:-54765:12:false:0:England:false:0:0:false
+waypoint:Workington:W:-3632:64:-55953:12:false:0:England:false:0:0:false
+waypoint:York:Y:-1093:63:-55223:12:false:0:England:false:0:0:false
+waypoint:Scarborough:S:-415:65:-55587:12:false:0:England:false:0:0:false
+waypoint:Doncaster:D:-1171:64:-54799:12:false:0:England:false:0:0:false
+waypoint:Barnsley:B:-1543:69:-54840:12:false:0:England:false:0:0:false
+waypoint:Sheffield:S:-1517:67:-54662:12:false:0:England:false:0:0:false
+waypoint:Chesterfield:C:-1472:67:-54517:12:false:0:England:false:0:0:false
+waypoint:Mansfield:M:-1231:68:-54416:12:false:0:England:false:0:0:false
+waypoint:Crewe:C:-2477:65:-54371:12:false:0:England:false:0:0:false
+waypoint:Stoke-on-Trent:S:-2224:68:-54275:12:false:0:England:false:0:0:false
+waypoint:Stafford:S:-2172:66:-54084:12:false:0:England:false:0:0:false
+waypoint:Derby:D:-1534:65:-54200:12:false:0:England:false:0:0:false
+waypoint:Nottingham:N:-1171:64:-54216:12:false:0:England:false:0:0:false
+waypoint:Spalding:S:-139:63:-54056:12:false:0:England:false:0:0:false
+waypoint:Wisbech:W:165:63:-53935:12:false:0:England:false:0:0:false
+waypoint:Loughborough:L:-1237:65:-54045:12:false:0:England:false:0:0:false
+waypoint:Leicester:L:-1134:67:-53877:12:false:0:England:false:0:0:false
+waypoint:Shrewsbury:S:-2826:66:-53950:12:false:0:England:false:0:0:false
+waypoint:Telford:T:-2505:69:-53945:12:false:0:England:false:0:0:false
+waypoint:Redditch:R:-1972:67:-53538:12:false:0:England:false:0:0:false
+waypoint:Stratford-upon-Avon:S:-1766:65:-53461:12:false:0:England:false:0:0:false
+waypoint:Royal Leamington Spa:L:-1571:66:-53553:12:false:0:England:false:0:0:false
+waypoint:Coventry:C:-1546:67:-53674:12:false:0:England:false:0:0:false
+waypoint:Birmingham:B:-1939:69:-53743:12:false:0:England:false:0:0:false
+waypoint:Kidderminster:K:-2314:65:-53642:12:false:0:England:false:0:0:false
+waypoint:Durham:D:-1623:66:-56087:12:false:0:England:false:0:0:false
+waypoint:Darlington:D:-1609:65:-55820:12:false:0:England:false:0:0:false
+waypoint:Middlesbrough:M:-1249:63:-55880:12:false:0:England:false:0:0:false
+waypoint:Sunderland:S:-1416:65:-56214:12:false:0:England:false:0:0:false
+waypoint:Newcastle upon Tyne:N:-1647:65:-56305:12:false:0:England:false:0:0:false
+waypoint:Carlisle:C:-3017:64:-56246:12:false:0:England:false:0:0:false
+waypoint:Kendal:K:-2806:65:-55627:12:false:0:England:false:0:0:false
+waypoint:Lancaster:L:-2896:63:-55359:12:false:0:England:false:0:0:false
+waypoint:Barrow-in-Furness:B:-3312:64:-55432:12:false:0:England:false:0:0:false
+waypoint:Preston:P:-2762:65:-55051:12:false:0:England:false:0:0:false
+waypoint:Blackpool:B:-3103:64:-55095:12:false:0:England:false:0:0:false
+waypoint:Southport:S:-3073:63:-54927:12:false:0:England:false:0:0:false
+waypoint:Liverpool:L:-3055:64:-54689:12:false:0:England:false:0:0:false
+waypoint:Chester:C:-2968:64:-54475:12:false:0:England:false:0:0:false
+waypoint:Hereford:H:-2783:65:-53318:12:false:0:England:false:0:0:false
+waypoint:Worcester:W:-2239:65:-53434:12:false:0:England:false:0:0:false
+waypoint:Kingston upon Hull:H:-359:63:-55041:12:false:0:England:false:0:0:false
+waypoint:Scunthorpe:S:-671:65:-54868:12:false:0:England:false:0:0:false
+waypoint:Grimsby:G:-75:63:-54839:12:false:0:England:false:0:0:false
+waypoint:Lincoln:L:-544:63:-54498:12:false:0:England:false:0:0:false
+waypoint:Grantham:G:-660:65:-54186:12:false:0:England:false:0:0:false
+waypoint:Skegness:S:350:63:-54425:12:false:0:England:false:0:0:false
+waypoint:Boston:B:-39:63:-54252:12:false:0:England:false:0:0:false
+waypoint:Corby:C:-696:67:-53752:12:false:0:England:false:0:0:false
+waypoint:Wellingborough:W:-700:65:-53549:12:false:0:England:false:0:0:false
+waypoint:Northampton:N:-892:65:-53488:12:false:0:England:false:0:0:false
+waypoint:Peterborough:P:-271:64:-53858:12:false:0:England:false:0:0:false
+waypoint:Cambridge:C:154:63:-53488:12:false:0:England:false:0:0:false
+waypoint:King's Lynn:KL:420:63:-54005:12:false:0:England:false:0:0:false
+waypoint:Lowestoft:L:1788:63:-53736:12:false:0:England:false:0:0:false
+waypoint:Great Yarmouth:Y:1765:63:-53851:12:false:0:England:false:0:0:false
+waypoint:Norwich:N:1292:64:-53901:12:false:0:England:false:0:0:false
+waypoint:Bury St Edmunds:B:739:65:-53490:12:false:0:England:false:0:0:false
+waypoint:Ipswich:I:1167:64:-53276:12:false:0:England:false:0:0:false
+waypoint:Bridgwater:B:-3042:63:-52360:12:false:0:England:false:0:0:false
+waypoint:Felixstowe:F:1361:63:-53204:12:false:0:England:false:0:0:false
+waypoint:Clacton-on-Sea:C:1187:64:-53035:12:false:0:England:false:0:0:false
+waypoint:Colchester:C:962:65:-53163:12:false:0:England:false:0:0:false
+waypoint:Braintree:B:595:66:-53127:12:false:0:England:false:0:0:false
+waypoint:Chelmsford:C:462:65:-52964:12:false:0:England:false:0:0:false
+waypoint:Bedford:B:-495:65:-53400:12:false:0:England:false:0:0:false
+waypoint:Banbury:B:-1370:67:-53320:12:false:0:England:false:0:0:false
+waypoint:Milton Keynes:MK:-796:67:-53287:12:false:0:England:false:0:0:false
+waypoint:High Wycombe:W:-790:69:-52856:12:false:0:England:false:0:0:false
+waypoint:Aylesbury:A:-841:66:-53065:12:false:0:England:false:0:0:false
+waypoint:Oxford:O:-1302:66:-53029:12:false:0:England:false:0:0:false
+waypoint:Cheltenham:C:-2119:65:-53151:12:false:0:England:false:0:0:false
+waypoint:Gloucester:G:-2271:64:-53109:12:false:0:England:false:0:0:false
+waypoint:Chippenham:C:-2200:66:-52686:12:false:0:England:false:0:0:false
+waypoint:Swindon:S:-1780:67:-52815:12:false:0:England:false:0:0:false
+waypoint:Newbury:N:-1346:66:-52641:12:false:0:England:false:0:0:false
+waypoint:Stevenage:S:-199:67:-53139:12:false:0:England:false:0:0:false
+waypoint:Harlow:H:94:65:-53020:12:false:0:England:false:0:0:false
+waypoint:Luton:L:-437:68:-53128:12:false:0:England:false:0:0:false
+waypoint:Watford:W:-422:67:-52923:12:false:0:England:false:0:0:false
+waypoint:Slough:S:-630:64:-52742:12:false:0:England:false:0:0:false
+waypoint:London:L:-89:64:-52760:12:false:0:England:false:0:0:false
+waypoint:Haywards Heath:HH:-104:66:-52215:12:false:0:England:false:0:0:false
+waypoint:Royal Tunbridge Wells:TW:270:68:-52366:12:false:0:England:false:0:0:false
+waypoint:Southend-on-Sea:S:727:64:-52776:12:false:0:England:false:0:0:false
+waypoint:Rochester:R:482:64:-52618:12:false:0:England:false:0:0:false
+waypoint:Ashford:A:881:65:-52382:12:false:0:England:false:0:0:false
+waypoint:Margate:M:1414:64:-52621:12:false:0:England:false:0:0:false
+waypoint:Canterbury:C:1106:64:-52504:12:false:0:England:false:0:0:false
+waypoint:Folkestone:F:1205:64:-52309:12:false:0:England:false:0:0:false
+waypoint:Dover:D:1349:64:-52355:12:false:0:England:false:0:0:false
+waypoint:Hastings:H:591:65:-52081:12:false:0:England:false:0:0:false
+waypoint:Eastbourne:E:292:63:-52014:12:false:0:England:false:0:0:false
+waypoint:Brighton and Hove:BH:-144:64:-52042:12:false:0:England:false:0:0:false
+waypoint:Worthing:W:-392:64:-52051:12:false:0:England:false:0:0:false
+waypoint:Chichester:C:-776:64:-52061:12:false:0:England:false:0:0:false
+waypoint:Horsham:H:-312:65:-52311:12:false:0:England:false:0:0:false
+waypoint:Crawley:C:-149:66:-52360:12:false:0:England:false:0:0:false
+waypoint:Guildford:G:-603:65:-52475:12:false:0:England:false:0:0:false
+waypoint:Farnborough:F:-768:66:-52538:12:false:0:England:false:0:0:false
+waypoint:Basingstoke:B:-1112:67:-52508:12:false:0:England:false:0:0:false
+waypoint:Andover:A:-1519:66:-52426:12:false:0:England:false:0:0:false
+waypoint:Winchester:W:-1328:66:-52287:12:false:0:England:false:0:0:false
+waypoint:Salisbury:S:-1838:65:-52290:12:false:0:England:false:0:0:false
+waypoint:Yeovil:Y:-2695:65:-52167:12:false:0:England:false:0:0:false
+waypoint:Bath:B:-2417:67:-52608:12:false:0:England:false:0:0:false
+waypoint:Bristol:B:-2653:64:-52698:12:false:0:England:false:0:0:false
+waypoint:Weston-super-Mare:W:-3003:63:-52580:12:false:0:England:false:0:0:false
+waypoint:Taunton:T:-3142:64:-52243:12:false:0:England:false:0:0:false
+waypoint:Torquay:T:-3614:64:-51674:12:false:0:England:false:0:0:false
+waypoint:Newquay:N:-5212:65:-51622:12:false:0:England:false:0:0:false
+waypoint:Barnstaple:B:-4133:64:-52298:12:false:0:England:false:0:0:false
+waypoint:Falmouth:F:-5210:64:-51364:12:false:0:England:false:0:0:false
+waypoint:Penzance:P:-5688:65:-51316:12:false:0:England:false:0:0:false
+waypoint:Plymouth:P:-4236:67:-51608:12:false:0:England:false:0:0:false
+waypoint:Exeter:E:-3624:65:-51948:12:false:0:England:false:0:0:false
+waypoint:Bournemouth:B:-1916:65:-51946:12:false:0:England:false:0:0:false
+waypoint:Southampton:S:-1439:63:-52122:12:false:0:England:false:0:0:false
+waypoint:Portsmouth:P:-1113:63:-52026:12:false:0:England:false:0:0:false
+waypoint:Hertford:H:-75:65:-53043:12:false:0:England:false:0:0:false
+waypoint:Evesham:E:-2001:64:-53327:12:false:0:England:false:0:0:false
+waypoint:Goole:G:-929:63:-54994:12:false:0:England:false:0:0:false
+waypoint:Brackley:B:-1167:68:-53291:12:false:0:England:false:0:0:false
+waypoint:Buckingham:B:-1004:66:-53242:12:false:0:England:false:0:0:false
+waypoint:Caerphilly:C:-3346:66:-52801:10:false:0:Wales:false:0:0:false
+waypoint:Pembroke:P:-5074:64:-52934:10:false:0:Wales:false:0:0:false
+waypoint:Milford Haven:MH:-5167:64:-52956:10:false:0:Wales:false:0:0:false
+waypoint:Rhyl:R:-3575:63:-54603:10:false:0:Wales:false:0:0:false
+waypoint:Deeside:D:-3098:64:-54479:10:false:0:Wales:false:0:0:false
+waypoint:Newtown:N:-3406:68:-53763:10:false:0:Wales:false:0:0:false
+waypoint:Holyhead:H:-4746:64:-54586:10:false:0:Wales:false:0:0:false
+waypoint:Bangor:B:-4275:65:-54487:10:false:0:Wales:false:0:0:false
+waypoint:Haverfordwest:H:-5098:65:-53038:10:false:0:Wales:false:0:0:false
+waypoint:Carmarthen:C:-4420:64:-53101:10:false:0:Wales:false:0:0:false
+waypoint:Aberystwyth:A:-4164:63:-53666:10:false:0:Wales:false:0:0:false
+waypoint:Colwyn Bay:CB:-3826:64:-54577:10:false:0:Wales:false:0:0:false
+waypoint:Merthyr Tydfil:MT:-3450:76:-53007:10:false:0:Wales:false:0:0:false
+waypoint:Wrexham:W:-3082:67:-54327:10:false:0:Wales:false:0:0:false
+waypoint:Llanelli:L:-4237:63:-52920:10:false:0:Wales:false:0:0:false
+waypoint:Swansea:S:-4017:65:-52918:10:false:0:Wales:false:0:0:false
+waypoint:Bridgend:B:-3657:67:-52768:10:false:0:Wales:false:0:0:false
+waypoint:Newport:N:-3067:63:-52840:10:false:0:Wales:false:0:0:false
+waypoint:Cardiff:C:-3220:63:-52711:10:false:0:Wales:false:0:0:false
+waypoint:Wick:W:-3166:64:-59842:9:false:0:Scotland:false:0:0:false
+waypoint:Arbroath:A:-2640:64:-57916:9:false:0:Scotland:false:0:0:false
+waypoint:Fraserburgh:F:-2058:64:-59079:9:false:0:Scotland:false:0:0:false
+waypoint:Peterhead:P:-1846:64:-58870:9:false:0:Scotland:false:0:0:false
+waypoint:Lerwick:L:-1164:64:-61593:9:false:0:Scotland:false:0:0:false
+waypoint:Kirkwall:K:-3033:63:-60399:9:false:0:Scotland:false:0:0:false
+waypoint:Thurso:T:-3610:64:-59992:9:false:0:Scotland:false:0:0:false
+waypoint:Stornoway:S:-6538:63:-59605:9:false:0:Scotland:false:0:0:false
+waypoint:St Andrews:SA:-2869:64:-57693:9:false:0:Scotland:false:0:0:false
+waypoint:Fort William:FW:-5227:63:-58187:9:false:0:Scotland:false:0:0:false
+waypoint:Irvine:I:-4763:63:-56941:9:false:0:Scotland:false:0:0:false
+waypoint:Stranraer:S:-5142:63:-56222:9:false:0:Scotland:false:0:0:false
+waypoint:Inverness:I:-4325:64:-58860:9:false:0:Scotland:false:0:0:false
+waypoint:Elgin:E:-3387:64:-59030:9:false:0:Scotland:false:0:0:false
+waypoint:Aberdeen:A:-2164:67:-58469:9:false:0:Scotland:false:0:0:false
+waypoint:Perth:P:-3564:64:-57762:9:false:0:Scotland:false:0:0:false
+waypoint:Dundee:D:-3040:64:-57816:9:false:0:Scotland:false:0:0:false
+waypoint:Dunfermline:D:-3511:65:-57396:9:false:0:Scotland:false:0:0:false
+waypoint:Kirkcaldy:K:-3212:66:-57492:9:false:0:Scotland:false:0:0:false
+waypoint:Cumbernauld:C:-4108:66:-57285:9:false:0:Scotland:false:0:0:false
+waypoint:Falkirk:F:-3837:63:-57355:9:false:0:Scotland:false:0:0:false
+waypoint:Stirling:S:-4058:63:-57480:9:false:0:Scotland:false:0:0:false
+waypoint:Edinburgh:E:-3177:64:-57286:9:false:0:Scotland:false:0:0:false
+waypoint:Livingston:L:-3609:69:-57256:9:false:0:Scotland:false:0:0:false
+waypoint:Glasgow:G:-4337:65:-57206:9:false:0:Scotland:false:0:0:false
+waypoint:Greenock:G:-4877:63:-57295:9:false:0:Scotland:false:0:0:false
+waypoint:Kilmarnock:K:-4588:64:-56931:9:false:0:Scotland:false:0:0:false
+waypoint:Ayr:A:-4710:64:-56785:9:false:0:Scotland:false:0:0:false
+waypoint:Dumfries:D:-3713:64:-56398:9:false:0:Scotland:false:0:0:false
+waypoint:Navan:N:-6896:66:-54926:2:false:0:Ireland:false:0:0:false
+waypoint:Mullingar:M:-7489:67:-54818:2:false:0:Ireland:false:0:0:false
+waypoint:Athlone:A:-8121:65:-54713:2:false:0:Ireland:false:0:0:false
+waypoint:Ennis:E:-9155:63:-54128:2:false:0:Ireland:false:0:0:false
+waypoint:Clonmel:C:-7885:64:-53617:2:false:0:Ireland:false:0:0:false
+waypoint:Kilkenny:K:-7425:66:-53902:2:false:0:Ireland:false:0:0:false
+waypoint:Portlaoise:P:-7475:67:-54289:2:false:0:Ireland:false:0:0:false
+waypoint:Newbridge:N:-6972:67:-54442:2:false:0:Ireland:false:0:0:false
+waypoint:Naas:N:-6798:67:-54511:2:false:0:Ireland:false:0:0:false
+waypoint:Galway:G:-9287:63:-54556:2:false:0:Ireland:false:0:0:false
+waypoint:Limerick:L:-8829:63:-53908:2:false:0:Ireland:false:0:0:false
+waypoint:Tralee:T:-9894:64:-53520:2:false:0:Ireland:false:0:0:false
+waypoint:Cork:C:-8669:64:-53136:2:false:0:Ireland:false:0:0:false
+waypoint:Waterford:W:-7311:63:-53533:2:false:0:Ireland:false:0:0:false
+waypoint:Wexford:W:-6666:65:-53593:2:false:0:Ireland:false:0:0:false
+waypoint:Letterkenny:L:-7884:63:-56262:2:false:0:Ireland:false:0:0:false
+waypoint:Sligo:S:-8688:64:-55574:2:false:0:Ireland:false:0:0:false
+waypoint:Dundalk:D:-6593:64:-55293:2:false:0:Ireland:false:0:0:false
+waypoint:Drogheda:D:-6534:65:-54993:2:false:0:Ireland:false:0:0:false
+waypoint:Dublin:D:-6375:63:-54631:2:false:0:Ireland:false:0:0:false
+waypoint:Dungannon:D:-6931:67:-55812:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Larne:L:-5942:63:-56165:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Enniskillen:E:-7811:65:-55650:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Armagh:A:-6818:65:-55652:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Omagh:O:-7487:66:-55913:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Coleraine:C:-6816:64:-56451:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Newry:N:-6506:63:-55504:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Londonderry:L:-7474:65:-56313:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Lurgan:L:-6508:64:-55790:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Ballymena:B:-6425:65:-56163:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Bangor:B:-5813:65:-55960:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Belfast:B:-6083:63:-55905:6:false:0:Northern Ireland:false:0:0:false
+waypoint:Douglas:D:-4593:64:-55450:7:false:0:Isle of Man:false:0:0:false
+waypoint:St Helier:SH:-2153:63:-50359:15:false:0:Jersey:false:0:0:false
+waypoint:St Peter Port:SP:-2596:63:-50646:14:false:0:Guernsey:false:0:0:false
