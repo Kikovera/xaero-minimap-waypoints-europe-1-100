@@ -1,7 +1,122 @@
-sets:Russia:gui.xaero_default:England:Lithuania:Wales:Scotland:Ireland:Northern Ireland:Isle of Man:Jersey:Guernsey:Latvia:Estonia
+sets:Finland:gui.xaero_default:Russia:England:Lithuania:Wales:Scotland:Ireland:Northern Ireland:Isle of Man:Jersey:Guernsey:Latvia:Estonia:Åland
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Hämeenlinna:H:25078:66:-62460:15:false:0:Finland:false:0:0:false
+waypoint:Nokia:N:24064:68:-62974:15:false:0:Finland:false:0:0:false
+waypoint:Tampere:T:24346:66:-62961:15:false:0:Finland:false:0:0:false
+waypoint:Jämsä:J:25780:67:-63338:15:false:0:Finland:false:0:0:false
+waypoint:Heinola:H:26644:67:-62688:15:false:0:Finland:false:0:0:false
+waypoint:Lahti:L:26275:68:-62444:15:false:0:Finland:false:0:0:false
+waypoint:Riihimäki:R:25327:67:-62178:15:false:0:Finland:false:0:0:false
+waypoint:Kouvola:K:27340:66:-62339:15:false:0:Finland:false:0:0:false
+waypoint:Porvoo:P:26279:64:-61864:15:false:0:Finland:false:0:0:false
+waypoint:Hamina:H:27832:63:-62050:15:false:0:Finland:false:0:0:false
+waypoint:Kotka:K:27583:64:-61916:15:false:0:Finland:false:0:0:false
+waypoint:Imatra:I:29464:66:-62660:15:false:0:Finland:false:0:0:false
+waypoint:Lappeenranta:L:28847:67:-62510:15:false:0:Finland:false:0:0:false
+waypoint:Jyväskylä:J:26379:67:-63745:15:false:0:Finland:false:0:0:false
+waypoint:Mikkeli:M:27925:67:-63165:15:false:0:Finland:false:0:0:false
+waypoint:Savonlinna:S:29553:67:-63364:15:false:0:Finland:false:0:0:false
+waypoint:Joensuu:J:30484:66:-64116:15:false:0:Finland:false:0:0:false
+waypoint:Varkaus:V:28522:66:-63812:15:false:0:Finland:false:0:0:false
+waypoint:Kuopio:K:28302:67:-64394:15:false:0:Finland:false:0:0:false
+waypoint:Kajaani:K:28393:69:-65767:15:false:0:Finland:false:0:0:false
+waypoint:Rovaniemi:R:26317:66:-68090:15:false:0:Finland:false:0:0:false
+waypoint:Tornio:T:24742:63:-67422:15:false:0:Finland:false:0:0:false
+waypoint:Kemi:K:25177:63:-67310:15:false:0:Finland:false:0:0:false
+waypoint:Oulu:O:26098:64:-66566:15:false:0:Finland:false:0:0:false
+waypoint:Raahe:R:25072:63:-66225:15:false:0:Finland:false:0:0:false
+waypoint:Ylivieska:Y:25125:66:-65609:15:false:0:Finland:false:0:0:false
+waypoint:Jakobstad:J:23229:63:-65206:15:false:0:Finland:false:0:0:false
+waypoint:Kokkola:K:23675:63:-65366:15:false:0:Finland:false:0:0:false
+waypoint:Seinäjoki:S:23403:65:-64313:15:false:0:Finland:false:0:0:false
+waypoint:Vaasa:V:22156:63:-64617:15:false:0:Finland:false:0:0:false
+waypoint:Pori:P:22303:63:-62957:15:false:0:Finland:false:0:0:false
+waypoint:Rauma:R:21984:63:-62599:15:false:0:Finland:false:0:0:false
+waypoint:Naantali:N:22546:63:-61920:15:false:0:Finland:false:0:0:false
+waypoint:Turku:T:22818:64:-61905:15:false:0:Finland:false:0:0:false
+waypoint:Salo:S:23679:64:-61839:15:false:0:Finland:false:0:0:false
+waypoint:Lohja:L:24652:66:-61697:15:false:0:Finland:false:0:0:false
+waypoint:Hyvinkää:H:25406:67:-62074:15:false:0:Finland:false:0:0:false
+waypoint:Mäntsälä:M:25901:66:-62084:15:false:0:Finland:false:0:0:false
+waypoint:Järvenpää:J:25725:66:-61901:15:false:0:Finland:false:0:0:false
+waypoint:Vantaa:V:25600:65:-61760:15:false:0:Finland:false:0:0:false
+waypoint:Kirkkonummi:K:25024:63:-61562:15:false:0:Finland:false:0:0:false
+waypoint:Espoo:E:25340:64:-61653:15:false:0:Finland:false:0:0:false
+waypoint:Helsinki:H:25541:64:-61656:15:false:0:Finland:false:0:0:false
+waypoint:Volokolamsk:V:36812:71:-57373:1:false:0:Russia:false:0:0:false
+waypoint:Mozhaysk:M:36894:72:-56836:1:false:0:Russia:false:0:0:false
+waypoint:Smolensk:S:32816:72:-56102:1:false:0:Russia:false:0:0:false
+waypoint:Yartsevo:Y:33487:71:-56399:1:false:0:Russia:false:0:0:false
+waypoint:Safonovo:S:34035:72:-56461:1:false:0:Russia:false:0:0:false
+waypoint:Vyazma:V:35137:73:-56567:1:false:0:Russia:false:0:0:false
+waypoint:Gagarin:G:35834:71:-56887:1:false:0:Russia:false:0:0:false
+waypoint:Gatchina:G:30900:66:-61014:1:false:0:Russia:false:0:0:false
+waypoint:Rybinsk:R:39759:66:-59456:1:false:0:Russia:false:0:0:false
+waypoint:Rostov Veliky:RV:40342:67:-58563:1:false:0:Russia:false:0:0:false
+waypoint:Yaroslavl:Y:40803:70:-58958:1:false:0:Russia:false:0:0:false
+waypoint:Kostroma:K:41926:68:-59147:1:false:0:Russia:false:0:0:false
+waypoint:Ivanovo:I:41964:68:-58368:1:false:0:Russia:false:0:0:false
+waypoint:Kolchugino:K:40314:70:-57650:1:false:0:Russia:false:0:0:false
+waypoint:Alexandrov:A:39641:70:-57744:1:false:0:Russia:false:0:0:false
+waypoint:Pereslavl-Zalessky:PZ:39815:70:-58142:1:false:0:Russia:false:0:0:false
+waypoint:Vladimir:V:41350:70:-57508:1:false:0:Russia:false:0:0:false
+waypoint:Yegoryevsk:Y:40012:69:-56716:1:false:0:Russia:false:0:0:false
+waypoint:Kolomna:K:39694:67:-56459:1:false:0:Russia:false:0:0:false
+waypoint:Voskresensk:V:39610:68:-56668:1:false:0:Russia:false:0:0:false
+waypoint:Orekhovo-Zuyevo:OZ:39911:68:-57143:1:false:0:Russia:false:0:0:false
+waypoint:Krasnogorsk:K:38219:69:-57144:1:false:0:Russia:false:0:0:false
+waypoint:Stupino:S:38935:71:-56204:1:false:0:Russia:false:0:0:false
+waypoint:Serpukhov:S:38314:69:-56242:1:false:0:Russia:false:0:0:false
+waypoint:Chekhov:C:38356:70:-56474:1:false:0:Russia:false:0:0:false
+waypoint:Naro-Fominsk:NF:37648:70:-56704:1:false:0:Russia:false:0:0:false
+waypoint:Lyubertsy:L:38788:69:-57005:1:false:0:Russia:false:0:0:false
+waypoint:Mytishchi:M:38682:69:-57255:1:false:0:Russia:false:0:0:false
+waypoint:Khimki:K:38339:70:-57230:1:false:0:Russia:false:0:0:false
+waypoint:Zelenograd:Z:38096:72:-57358:1:false:0:Russia:false:0:0:false
+waypoint:Noginsk:N:39347:69:-57168:1:false:0:Russia:false:0:0:false
+waypoint:Podolsk:P:38515:70:-56767:1:false:0:Russia:false:0:0:false
+waypoint:Moscow:M:38532:68:-57091:1:false:0:Russia:false:0:0:false
+waypoint:Sergiyev Posad:SP:39124:72:-57639:1:false:0:Russia:false:0:0:false
+waypoint:Dmitrov:D:38390:69:-57711:1:false:0:Russia:false:0:0:false
+waypoint:Solnechnogorsk:S:37867:71:-57538:1:false:0:Russia:false:0:0:false
+waypoint:Klin:K:37609:70:-57681:1:false:0:Russia:false:0:0:false
+waypoint:Dubna:D:38018:68:-58087:1:false:0:Russia:false:0:0:false
+waypoint:Vyshny Volochyok:VV:35402:70:-58974:1:false:0:Russia:false:0:0:false
+waypoint:Torzhok:T:35871:70:-58394:1:false:0:Russia:false:0:0:false
+waypoint:Tver:T:36725:69:-58164:1:false:0:Russia:false:0:0:false
+waypoint:Rzhev:R:35155:71:-57573:1:false:0:Russia:false:0:0:false
+waypoint:Velikiye Luki:VL:31248:68:-57642:1:false:0:Russia:false:0:0:false
+waypoint:Arkhangelsk:A:41482:63:-66088:1:false:0:Russia:false:0:0:false
+waypoint:Severodvinsk:S:40764:65:-66096:1:false:0:Russia:false:0:0:false
+waypoint:Vologda:V:40874:68:-60702:1:false:0:Russia:false:0:0:false
+waypoint:Cherepovets:C:38729:67:-60536:1:false:0:Russia:false:0:0:false
+waypoint:Kondopoga:K:35061:66:-63700:1:false:0:Russia:false:0:0:false
+waypoint:Segezha:S:35132:68:-65268:1:false:0:Russia:false:0:0:false
+waypoint:Kostomuksha:K:31325:72:-66137:1:false:0:Russia:false:0:0:false
+waypoint:Severomorsk:S:34220:64:-70740:1:false:0:Russia:false:0:0:false
+waypoint:Murmansk:M:33871:65:-70551:1:false:0:Russia:false:0:0:false
+waypoint:Olenegorsk:O:34096:70:-69751:1:false:0:Russia:false:0:0:false
+waypoint:Monchegorsk:M:33658:74:-69595:1:false:0:Russia:false:0:0:false
+waypoint:Apatity:A:34194:69:-69198:1:false:0:Russia:false:0:0:false
+waypoint:Kandalaksha:K:33171:63:-68764:1:false:0:Russia:false:0:0:false
+waypoint:Veliky Novgorod:VN:32023:64:-59939:1:false:0:Russia:false:0:0:false
+waypoint:Tikhvin:T:34294:65:-61114:1:false:0:Russia:false:0:0:false
+waypoint:Volkhov:V:33089:64:-61366:1:false:0:Russia:false:0:0:false
+waypoint:Kirishi:K:32786:64:-60883:1:false:0:Russia:false:0:0:false
+waypoint:Petrozavodsk:P:35197:65:-63279:1:false:0:Russia:false:0:0:false
+waypoint:Vyborg:V:29421:64:-62170:1:false:0:Russia:false:0:0:false
+waypoint:St Petersburg:SP:31025:64:-61312:1:false:0:Russia:false:0:0:false
+waypoint:Luga:L:30599:65:-60144:1:false:0:Russia:false:0:0:false
+waypoint:Pskov:P:28975:65:-59203:1:false:0:Russia:false:0:0:false
+waypoint:Sosnovy Bor:SB:29785:64:-61323:1:false:0:Russia:false:0:0:false
+waypoint:Kingisepp:K:29264:64:-60809:1:false:0:Russia:false:0:0:false
+waypoint:Sovetsk:S:22408:64:-56403:1:false:0:Russia:false:0:0:false
+waypoint:Gusev:G:22735:65:-55925:1:false:0:Russia:false:0:0:false
+waypoint:Chernyakhovsk:C:22329:64:-55947:1:false:0:Russia:false:0:0:false
+waypoint:Kaliningrad:K:21088:63:-56017:1:false:0:Russia:false:0:0:false
+waypoint:Baltiysk:B:20387:63:-55964:1:false:0:Russia:false:0:0:false
 waypoint:Haverhill:H:445:66:-53334:12:false:0:England:false:0:0:false
 waypoint:Northallerton:N:-1469:65:-55643:12:false:0:England:false:0:0:false
 waypoint:Wokingham:W:-889:65:-52657:12:false:0:England:false:0:0:false
@@ -349,70 +464,6 @@ waypoint:Belfast:B:-6083:63:-55905:6:false:0:Northern Ireland:false:0:0:false
 waypoint:Douglas:D:-4593:64:-55450:7:false:0:Isle of Man:false:0:0:false
 waypoint:St Helier:SH:-2153:63:-50359:15:false:0:Jersey:false:0:0:false
 waypoint:St Peter Port:SP:-2596:63:-50646:14:false:0:Guernsey:false:0:0:false
-waypoint:Rybinsk:R:39759:66:-59456:1:false:0:Russia:false:0:0:false
-waypoint:Rostov Veliky:RV:40342:67:-58563:1:false:0:Russia:false:0:0:false
-waypoint:Yaroslavl:Y:40803:70:-58958:1:false:0:Russia:false:0:0:false
-waypoint:Kostroma:K:41926:68:-59147:1:false:0:Russia:false:0:0:false
-waypoint:Ivanovo:I:41964:68:-58368:1:false:0:Russia:false:0:0:false
-waypoint:Kolchugino:K:40314:70:-57650:1:false:0:Russia:false:0:0:false
-waypoint:Alexandrov:A:39641:70:-57744:1:false:0:Russia:false:0:0:false
-waypoint:Pereslavl-Zalessky:PZ:39815:70:-58142:1:false:0:Russia:false:0:0:false
-waypoint:Vladimir:V:41350:70:-57508:1:false:0:Russia:false:0:0:false
-waypoint:Yegoryevsk:Y:40012:69:-56716:1:false:0:Russia:false:0:0:false
-waypoint:Kolomna:K:39694:67:-56459:1:false:0:Russia:false:0:0:false
-waypoint:Voskresensk:V:39610:68:-56668:1:false:0:Russia:false:0:0:false
-waypoint:Orekhovo-Zuyevo:OZ:39911:68:-57143:1:false:0:Russia:false:0:0:false
-waypoint:Krasnogorsk:K:38219:69:-57144:1:false:0:Russia:false:0:0:false
-waypoint:Stupino:S:38935:71:-56204:1:false:0:Russia:false:0:0:false
-waypoint:Serpukhov:S:38314:69:-56242:1:false:0:Russia:false:0:0:false
-waypoint:Chekhov:C:38356:70:-56474:1:false:0:Russia:false:0:0:false
-waypoint:Naro-Fominsk:NF:37648:70:-56704:1:false:0:Russia:false:0:0:false
-waypoint:Lyubertsy:L:38788:69:-57005:1:false:0:Russia:false:0:0:false
-waypoint:Mytishchi:M:38682:69:-57255:1:false:0:Russia:false:0:0:false
-waypoint:Khimki:K:38339:70:-57230:1:false:0:Russia:false:0:0:false
-waypoint:Zelenograd:Z:38096:72:-57358:1:false:0:Russia:false:0:0:false
-waypoint:Noginsk:N:39347:69:-57168:1:false:0:Russia:false:0:0:false
-waypoint:Podolsk:P:38515:70:-56767:1:false:0:Russia:false:0:0:false
-waypoint:Moscow:M:38532:68:-57091:1:false:0:Russia:false:0:0:false
-waypoint:Sergiyev Posad:SP:39124:72:-57639:1:false:0:Russia:false:0:0:false
-waypoint:Dmitrov:D:38390:69:-57711:1:false:0:Russia:false:0:0:false
-waypoint:Solnechnogorsk:S:37867:71:-57538:1:false:0:Russia:false:0:0:false
-waypoint:Klin:K:37609:70:-57681:1:false:0:Russia:false:0:0:false
-waypoint:Dubna:D:38018:68:-58087:1:false:0:Russia:false:0:0:false
-waypoint:Vyshny Volochyok:VV:35402:70:-58974:1:false:0:Russia:false:0:0:false
-waypoint:Torzhok:T:35871:70:-58394:1:false:0:Russia:false:0:0:false
-waypoint:Tver:T:36725:69:-58164:1:false:0:Russia:false:0:0:false
-waypoint:Rzhev:R:35155:71:-57573:1:false:0:Russia:false:0:0:false
-waypoint:Velikiye Luki:VL:31248:68:-57642:1:false:0:Russia:false:0:0:false
-waypoint:Arkhangelsk:A:41482:63:-66088:1:false:0:Russia:false:0:0:false
-waypoint:Severodvinsk:S:40764:65:-66096:1:false:0:Russia:false:0:0:false
-waypoint:Vologda:V:40874:68:-60702:1:false:0:Russia:false:0:0:false
-waypoint:Cherepovets:C:38729:67:-60536:1:false:0:Russia:false:0:0:false
-waypoint:Kondopoga:K:35061:66:-63700:1:false:0:Russia:false:0:0:false
-waypoint:Segezha:S:35132:68:-65268:1:false:0:Russia:false:0:0:false
-waypoint:Kostomuksha:K:31325:72:-66137:1:false:0:Russia:false:0:0:false
-waypoint:Severomorsk:S:34220:64:-70740:1:false:0:Russia:false:0:0:false
-waypoint:Murmansk:M:33871:65:-70551:1:false:0:Russia:false:0:0:false
-waypoint:Olenegorsk:O:34096:70:-69751:1:false:0:Russia:false:0:0:false
-waypoint:Monchegorsk:M:33658:74:-69595:1:false:0:Russia:false:0:0:false
-waypoint:Apatity:A:34194:69:-69198:1:false:0:Russia:false:0:0:false
-waypoint:Kandalaksha:K:33171:63:-68764:1:false:0:Russia:false:0:0:false
-waypoint:Veliky Novgorod:VN:32023:64:-59939:1:false:0:Russia:false:0:0:false
-waypoint:Tikhvin:T:34294:65:-61114:1:false:0:Russia:false:0:0:false
-waypoint:Volkhov:V:33089:64:-61366:1:false:0:Russia:false:0:0:false
-waypoint:Kirishi:K:32786:64:-60883:1:false:0:Russia:false:0:0:false
-waypoint:Petrozavodsk:P:35197:65:-63279:1:false:0:Russia:false:0:0:false
-waypoint:Vyborg:V:29421:64:-62170:1:false:0:Russia:false:0:0:false
-waypoint:St Petersburg:SP:31025:64:-61312:1:false:0:Russia:false:0:0:false
-waypoint:Luga:L:30599:65:-60144:1:false:0:Russia:false:0:0:false
-waypoint:Pskov:P:28975:65:-59203:1:false:0:Russia:false:0:0:false
-waypoint:Sosnovy Bor:SB:29785:64:-61323:1:false:0:Russia:false:0:0:false
-waypoint:Kingisepp:K:29264:64:-60809:1:false:0:Russia:false:0:0:false
-waypoint:Sovetsk:S:22408:64:-56403:1:false:0:Russia:false:0:0:false
-waypoint:Gusev:G:22735:65:-55925:1:false:0:Russia:false:0:0:false
-waypoint:Chernyakhovsk:C:22329:64:-55947:1:false:0:Russia:false:0:0:false
-waypoint:Kaliningrad:K:21088:63:-56017:1:false:0:Russia:false:0:0:false
-waypoint:Baltiysk:B:20387:63:-55964:1:false:0:Russia:false:0:0:false
 waypoint:Valmiera:V:25985:65:-58904:4:false:0:Latvia:false:0:0:false
 waypoint:Rēzekne:R:27955:69:-57836:4:false:0:Latvia:false:0:0:false
 waypoint:Daugavpils:D:27093:68:-57199:4:false:0:Latvia:false:0:0:false
@@ -433,3 +484,4 @@ waypoint:Viljandi:V:26195:66:-59766:0:false:0:Estonia:false:0:0:false
 waypoint:Tartu:T:27372:65:-59791:0:false:0:Estonia:false:0:0:false
 waypoint:Võru:V:27624:66:-59243:0:false:0:Estonia:false:0:0:false
 waypoint:Valga:V:26675:65:-59175:0:false:0:Estonia:false:0:0:false
+waypoint:Mariehamn:M:20413:64:-61553:14:false:0:Åland:false:0:0:false
